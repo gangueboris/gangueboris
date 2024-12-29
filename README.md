@@ -20,7 +20,4 @@
 <h1 align="center">Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangueboris&show_icons=true&locale=en" alt="gangueboris" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangueboris&layout=pie)](https://github.com/gangueboris/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangueboris&show_icons=true&theme=transparent)](https://github.com/gangueboris/github-readme-stats)
-[![Thomega35's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomega35&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangueboris&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
