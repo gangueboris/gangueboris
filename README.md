@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangueboris&show_icons=true&locale=en" alt="gangueboris" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangueboris&layout=pie)](https://github.com/gangueboris/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangueboris&show_icons=true&theme=transparent)](https://github.com/gangueboris/github-readme-stats)
